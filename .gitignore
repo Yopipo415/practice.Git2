@@ -1,5 +1,6 @@
 ignore_target_dir/
 ignore_target.txt
+sample2.txt
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,react,macos,visualstudiocode
