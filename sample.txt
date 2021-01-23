@@ -7,5 +7,3 @@
 ３回目のmasterでの作業
 ４回目のmasterでの作業
 ５回目のmasterでの作業
-
-git revert のチェック
